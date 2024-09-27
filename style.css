@@ -218,23 +218,23 @@ section {
 @keyframes words {
   0%,
   20% {
-    content: "App Developer";
+    content: "Programmer";
   }
   21%,
   40% {
-    content: "Web Developer";
+    content: "Programmer";
   }
   41%,
   60% {
-    content: "App Developer";
+    content: "Programmer";
   }
   61%,
   80% {
-    content: "Web Developer";
+    content: "Programmer";
   }
   81%,
   100% {
-    content: "App Developer";
+    content: "Programmer";
   }
 }
 
