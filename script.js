@@ -18,12 +18,12 @@ menuIcon.onclick = () => {
 };
 
 // Typing Animation
-const typingText = document.querySelector('.text-animation span');
-const typingWords = ['Programmer', 'Programmer', 'Programmer', 'Programmer'];
-let typingIndex = 0;
-let charIndex = 0;
-let currentWord = '';
-let isDeleting = false;
+// const typingText = document.querySelector('.text-animation span');
+// const typingWords = ['Programmer', 'Programmer', 'Programmer', 'Programmer'];
+// let typingIndex = 0;
+// let charIndex = 0;
+// let currentWord = '';
+// let isDeleting = false;
 
 function typeEffect() {
   currentWord = typingWords[typingIndex];
