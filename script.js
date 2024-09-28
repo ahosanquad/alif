@@ -19,7 +19,7 @@ menuIcon.onclick = () => {
 
 // Typing Animation
 const typingText = document.querySelector('.text-animation span');
-const typingWords = ['App Developer', 'Web Developer', 'Programmer', 'Learner'];
+const typingWords = ['Programmer', 'Programmer', 'Programmer', 'Programmer'];
 let typingIndex = 0;
 let charIndex = 0;
 let currentWord = '';
